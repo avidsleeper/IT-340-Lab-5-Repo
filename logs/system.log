@@ -1,0 +1,1170 @@
+//: System Report Sun Mar  8 04:49:01 PM EDT 2026
+!!: Uptime:
+ 16:49:01 up  3:01,  1 user,  load average: 0.14, 0.11, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1940688      107100       66832     1883032     2020020
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:50:01 PM EDT 2026
+!!: Uptime:
+ 16:50:01 up  3:02,  1 user,  load average: 0.05, 0.09, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1940884      106640       66828     1883292     2019824
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:51:01 PM EDT 2026
+!!: Uptime:
+ 16:51:01 up  3:03,  1 user,  load average: 0.16, 0.11, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1940940      106548       66828     1883320     2019768
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:52:01 PM EDT 2026
+!!: Uptime:
+ 16:52:01 up  3:04,  1 user,  load average: 0.06, 0.09, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1941184      106296       66828     1883336     2019524
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:53:01 PM EDT 2026
+!!: Uptime:
+ 16:53:01 up  3:05,  1 user,  load average: 0.02, 0.07, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1940824      106044       66828     1883452     2019884
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:54:01 PM EDT 2026
+!!: Uptime:
+ 16:54:01 up  3:06,  1 user,  load average: 0.17, 0.09, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1941008      105844       66828     1883476     2019700
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:55:01 PM EDT 2026
+!!: Uptime:
+ 16:55:01 up  3:07,  1 user,  load average: 0.06, 0.07, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1941220      105592       66828     1883508     2019488
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:56:01 PM EDT 2026
+!!: Uptime:
+ 16:56:01 up  3:08,  1 user,  load average: 0.02, 0.06, 0.03
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1941256      105540       66828     1883532     2019452
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:57:01 PM EDT 2026
+!!: Uptime:
+ 16:57:01 up  3:09,  1 user,  load average: 0.01, 0.04, 0.03
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1909756      156260       58848     1867608     2050952
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:58:01 PM EDT 2026
+!!: Uptime:
+ 16:58:01 up  3:10,  1 user,  load average: 0.00, 0.03, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1910236      155756       58848     1867632     2050472
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 04:59:01 PM EDT 2026
+!!: Uptime:
+ 16:59:01 up  3:11,  1 user,  load average: 0.03, 0.04, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1955720      109916       66996     1875984     2004988
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:00:01 PM EDT 2026
+!!: Uptime:
+ 17:00:01 up  3:12,  1 user,  load average: 0.01, 0.03, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1954884      110672       66832     1875900     2005824
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:01:01 PM EDT 2026
+!!: Uptime:
+ 17:01:01 up  3:13,  1 user,  load average: 0.00, 0.02, 0.01
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1955088      110420       66828     1875944     2005620
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:02:01 PM EDT 2026
+!!: Uptime:
+ 17:02:01 up  3:14,  1 user,  load average: 0.00, 0.02, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1955308      110168       66996     1876152     2005400
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:03:01 PM EDT 2026
+!!: Uptime:
+ 17:03:01 up  3:15,  1 user,  load average: 0.00, 0.01, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1955228      110168       66828     1876056     2005480
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:04:01 PM EDT 2026
+!!: Uptime:
+ 17:04:01 up  3:16,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1942900      150120       66832     1863204     2017808
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:05:01 PM EDT 2026
+!!: Uptime:
+ 17:05:01 up  3:17,  1 user,  load average: 0.12, 0.03, 0.01
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1946656      145824       66832     1863768     2014052
+Swap:        3804156          60     3804096
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:06:01 PM EDT 2026
+!!: Uptime:
+ 17:06:01 up  3:18,  1 user,  load average: 0.21, 0.07, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1920748      369076       63492     1830736     2039960
+Swap:        3804156       78604     3725552
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:07:01 PM EDT 2026
+!!: Uptime:
+ 17:07:01 up  3:19,  1 user,  load average: 0.33, 0.13, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1901456      308596       63492     1916484     2059252
+Swap:        3804156       90676     3713480
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:08:01 PM EDT 2026
+!!: Uptime:
+ 17:08:01 up  3:20,  1 user,  load average: 0.16, 0.12, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923064      279416       63492     1917960     2037644
+Swap:        3804156       89388     3714768
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:09:01 PM EDT 2026
+!!: Uptime:
+ 17:09:01 up  3:21,  1 user,  load average: 0.06, 0.10, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1915672      286756       63492     1917984     2045036
+Swap:        3804156       89384     3714772
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:10:01 PM EDT 2026
+!!: Uptime:
+ 17:10:01 up  3:22,  1 user,  load average: 0.28, 0.15, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923220      278236       63492     1918284     2037488
+Swap:        3804156       89080     3715076
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:11:01 PM EDT 2026
+!!: Uptime:
+ 17:11:01 up  3:23,  1 user,  load average: 0.26, 0.17, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1922816      278272       63492     1918744     2037892
+Swap:        3804156       89068     3715088
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:12:01 PM EDT 2026
+!!: Uptime:
+ 17:12:01 up  3:24,  1 user,  load average: 0.09, 0.14, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923816      274728       63488     1923728     2036892
+Swap:        3804156       89068     3715088
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:13:01 PM EDT 2026
+!!: Uptime:
+ 17:13:01 up  3:25,  1 user,  load average: 0.17, 0.15, 0.08
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923928      274480       63488     1923864     2036780
+Swap:        3804156       89064     3715092
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:14:01 PM EDT 2026
+!!: Uptime:
+ 17:14:01 up  3:26,  1 user,  load average: 0.06, 0.12, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1917588      271336       63488     1923928     2043120
+Swap:        3804156       89040     3715116
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:15:01 PM EDT 2026
+!!: Uptime:
+ 17:15:01 up  3:27,  1 user,  load average: 0.02, 0.10, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925932      261612       63488     1925320     2034776
+Swap:        3804156       89036     3715120
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:16:01 PM EDT 2026
+!!: Uptime:
+ 17:16:01 up  3:28,  1 user,  load average: 0.09, 0.09, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1927676      259776       63488     1925432     2033032
+Swap:        3804156       89032     3715124
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:17:01 PM EDT 2026
+!!: Uptime:
+ 17:17:01 up  3:29,  1 user,  load average: 0.10, 0.09, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1928100      259224       63488     1925488     2032608
+Swap:        3804156       89032     3715124
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:18:01 PM EDT 2026
+!!: Uptime:
+ 17:18:01 up  3:30,  1 user,  load average: 0.04, 0.07, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1928068      259220       63488     1925512     2032640
+Swap:        3804156       89028     3715128
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:19:01 PM EDT 2026
+!!: Uptime:
+ 17:19:01 up  3:31,  1 user,  load average: 0.10, 0.09, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1927120      259220       63488     1926420     2033588
+Swap:        3804156       89028     3715128
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:20:01 PM EDT 2026
+!!: Uptime:
+ 17:20:01 up  3:32,  1 user,  load average: 0.11, 0.10, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1927732      258568       63488     1926452     2032976
+Swap:        3804156       89024     3715132
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:21:02 PM EDT 2026
+!!: Uptime:
+ 17:21:02 up  3:33,  1 user,  load average: 0.04, 0.08, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1928224      258064       63488     1926472     2032484
+Swap:        3804156       89024     3715132
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:22:01 PM EDT 2026
+!!: Uptime:
+ 17:22:01 up  3:34,  1 user,  load average: 0.22, 0.11, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1912296      273908       55508     1918564     2048412
+Swap:        3804156       89016     3715140
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:23:01 PM EDT 2026
+!!: Uptime:
+ 17:23:01 up  3:35,  1 user,  load average: 0.20, 0.12, 0.08
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923052      260480       63500     1929236     2037656
+Swap:        3804156       88988     3715168
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:24:01 PM EDT 2026
+!!: Uptime:
+ 17:24:01 up  3:36,  1 user,  load average: 0.07, 0.10, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1924168      259024       63492     1929428     2036540
+Swap:        3804156       88968     3715188
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:25:01 PM EDT 2026
+!!: Uptime:
+ 17:25:01 up  3:37,  1 user,  load average: 0.02, 0.08, 0.07
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1924388      258768       63492     1929440     2036320
+Swap:        3804156       88964     3715192
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:26:01 PM EDT 2026
+!!: Uptime:
+ 17:26:01 up  3:38,  1 user,  load average: 0.01, 0.06, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925120      258008       63492     1929464     2035588
+Swap:        3804156       88964     3715192
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:27:01 PM EDT 2026
+!!: Uptime:
+ 17:27:01 up  3:39,  1 user,  load average: 0.00, 0.05, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925408      257712       63492     1929496     2035300
+Swap:        3804156       88960     3715196
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:28:01 PM EDT 2026
+!!: Uptime:
+ 17:28:01 up  3:40,  1 user,  load average: 0.00, 0.04, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1919772      263304       63492     1929532     2040936
+Swap:        3804156       88960     3715196
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:29:01 PM EDT 2026
+!!: Uptime:
+ 17:29:01 up  3:41,  1 user,  load average: 0.04, 0.04, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1919984      263068       63492     1929556     2040724
+Swap:        3804156       88956     3715200
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:30:01 PM EDT 2026
+!!: Uptime:
+ 17:30:01 up  3:42,  1 user,  load average: 0.05, 0.05, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1921164      261864       63488     1929576     2039544
+Swap:        3804156       88956     3715200
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:31:01 PM EDT 2026
+!!: Uptime:
+ 17:31:01 up  3:43,  1 user,  load average: 0.09, 0.05, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1921048      261944       63488     1929604     2039660
+Swap:        3804156       88952     3715204
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:32:01 PM EDT 2026
+!!: Uptime:
+ 17:32:01 up  3:44,  1 user,  load average: 0.10, 0.06, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1920560      262400       63488     1929628     2040148
+Swap:        3804156       88948     3715208
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:33:01 PM EDT 2026
+!!: Uptime:
+ 17:33:01 up  3:45,  1 user,  load average: 0.12, 0.06, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1920628      262260       63488     1929708     2040080
+Swap:        3804156       88948     3715208
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:34:01 PM EDT 2026
+!!: Uptime:
+ 17:34:01 up  3:46,  1 user,  load average: 0.15, 0.09, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923688      259092       63488     1929780     2037020
+Swap:        3804156       88940     3715216
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:35:01 PM EDT 2026
+!!: Uptime:
+ 17:35:01 up  3:47,  1 user,  load average: 0.05, 0.07, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923816      258892       63488     1929856     2036892
+Swap:        3804156       88936     3715220
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:36:01 PM EDT 2026
+!!: Uptime:
+ 17:36:01 up  3:48,  1 user,  load average: 0.09, 0.07, 0.06
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923748      258640       63488     1929924     2036960
+Swap:        3804156       88932     3715224
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:37:01 PM EDT 2026
+!!: Uptime:
+ 17:37:01 up  3:49,  1 user,  load average: 0.03, 0.06, 0.05
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1923476      258856       63488     1929980     2037232
+Swap:        3804156       88932     3715224
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:38:02 PM EDT 2026
+!!: Uptime:
+ 17:38:02 up  3:50,  1 user,  load average: 0.01, 0.04, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925500      253936       63488     1931336     2035208
+Swap:        3804156       88192     3715964
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:39:01 PM EDT 2026
+!!: Uptime:
+ 17:39:01 up  3:51,  1 user,  load average: 0.00, 0.03, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925476      253936       63488     1931344     2035232
+Swap:        3804156       88188     3715968
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:40:01 PM EDT 2026
+!!: Uptime:
+ 17:40:01 up  3:52,  1 user,  load average: 0.00, 0.02, 0.03
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925460      253936       63488     1931368     2035248
+Swap:        3804156       88188     3715968
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:41:01 PM EDT 2026
+!!: Uptime:
+ 17:41:01 up  3:53,  1 user,  load average: 0.00, 0.02, 0.03
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1925432      253936       63488     1931396     2035276
+Swap:        3804156       88184     3715972
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:42:01 PM EDT 2026
+!!: Uptime:
+ 17:42:01 up  3:54,  1 user,  load average: 0.07, 0.03, 0.03
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906936      272336       55508     1923492     2053772
+Swap:        3804156       88184     3715972
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:43:01 PM EDT 2026
+!!: Uptime:
+ 17:43:01 up  3:55,  1 user,  load average: 0.02, 0.02, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906908      272336       55508     1923544     2053800
+Swap:        3804156       88180     3715976
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:44:01 PM EDT 2026
+!!: Uptime:
+ 17:44:01 up  3:56,  1 user,  load average: 0.01, 0.02, 0.01
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906876      272336       55508     1923560     2053832
+Swap:        3804156       88180     3715976
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:45:01 PM EDT 2026
+!!: Uptime:
+ 17:45:01 up  3:57,  1 user,  load average: 0.00, 0.01, 0.01
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906860      272336       55508     1923576     2053848
+Swap:        3804156       88176     3715980
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:46:01 PM EDT 2026
+!!: Uptime:
+ 17:46:01 up  3:58,  1 user,  load average: 0.00, 0.01, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906844      272336       55508     1923584     2053864
+Swap:        3804156       88172     3715984
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:47:01 PM EDT 2026
+!!: Uptime:
+ 17:47:01 up  3:59,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906720      272336       55508     1923656     2053988
+Swap:        3804156       88164     3715992
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:48:01 PM EDT 2026
+!!: Uptime:
+ 17:48:01 up  4:00,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906916      272120       55508     1923692     2053792
+Swap:        3804156       88160     3715996
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:49:01 PM EDT 2026
+!!: Uptime:
+ 17:49:01 up  4:01,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906892      272088       55508     1923748     2053816
+Swap:        3804156       88160     3715996
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:50:01 PM EDT 2026
+!!: Uptime:
+ 17:50:01 up  4:02,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906864      272088       55508     1923764     2053844
+Swap:        3804156       88156     3716000
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:51:01 PM EDT 2026
+!!: Uptime:
+ 17:51:01 up  4:03,  1 user,  load average: 0.04, 0.01, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1906856      272088       55508     1923788     2053852
+Swap:        3804156       88156     3716000
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:52:01 PM EDT 2026
+!!: Uptime:
+ 17:52:01 up  4:04,  1 user,  load average: 0.26, 0.08, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1942116      236696       63492     1931892     2018592
+Swap:        3804156       88148     3716008
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
+//: System Report Sun Mar  8 05:53:01 PM EDT 2026
+!!: Uptime:
+ 17:53:01 up  4:05,  1 user,  load average: 0.09, 0.07, 0.02
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:         3960708     1957316      220820       63492     1932180     2003392
+Swap:        3804156       88128     3716028
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.9G  8.7G  54% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         94M   94M     0 100% /media/dev-ian/CDROM
+//: END
