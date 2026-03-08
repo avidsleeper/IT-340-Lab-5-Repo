@@ -13,3 +13,5 @@ echo "Description of work:"
 read description
 
 echo "$(date) | Full name: $fnmae $lname | Num of Hours: $hours | Work: $description" >> /home/developers/Lab_5_workspace/logs/timesheet.log
+
+cp /home/developers/Lab_5_workspace/logs/timesheet.log /home/developers/Lab_5_workspace/data/timesheet.log
